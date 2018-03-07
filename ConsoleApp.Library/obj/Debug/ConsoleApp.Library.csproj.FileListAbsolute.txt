@@ -1,0 +1,5 @@
+D:\Development\Spike Projects\Windows\Spike-Console\ConsoleApp.Library\bin\Debug\ConsoleApp.Library.dll
+D:\Development\Spike Projects\Windows\Spike-Console\ConsoleApp.Library\bin\Debug\ConsoleApp.Library.pdb
+D:\Development\Spike Projects\Windows\Spike-Console\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.csprojResolveAssemblyReference.cache
+D:\Development\Spike Projects\Windows\Spike-Console\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.dll
+D:\Development\Spike Projects\Windows\Spike-Console\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.pdb
